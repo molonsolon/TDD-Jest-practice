@@ -1,0 +1,24 @@
+{
+  "name": "tdd-jest-practice",
+  "version": "1.0.0",
+  "description": "Test-driven Development practice using Jest. Done for The Odin Project's section on TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molonsolon/TDD-Jest-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molonsolon/TDD-Jest-practice/issues"
+  },
+  "homepage": "https://github.com/molonsolon/TDD-Jest-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "jest": "^27.4.3"
+  }
+}
